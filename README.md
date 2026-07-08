@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/1000492612.jpg" alt="Echo Music Logo" width="140" style="border-radius: 24px"/>
+  <img src="assets/a.jpg" alt="Echo Music Logo" width="140" style="border-radius: 24px"/>
 
   <h1>Echo Music</h1>
 
@@ -35,19 +35,19 @@
     <tr>
       <td align="center" style="padding: 10px; border: none;">
         <strong>Home Screen</strong><br><br>
-        <img src="assets/1000492613.jpg" alt="Home Screen" width="200" style="border-radius: 12px;"/>
+        <img src="assets/b.jpg" alt="Home Screen" width="200" style="border-radius: 12px;"/>
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <strong>Now Playing</strong><br><br>
-        <img src="assets/1000497737.jpg" alt="Now Playing Screen" width="200" style="border-radius: 12px;"/>
+        <img src="assets/c.jpg" alt="Now Playing Screen" width="200" style="border-radius: 12px;"/>
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <strong>Player Options</strong><br><br>
-        <img src="assets/1000494445.png" alt="Options Menu" width="200" style="border-radius: 12px;"/>
+        <img src="assets/d.png" alt="Options Menu" width="200" style="border-radius: 12px;"/>
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <strong>About Developer</strong><br><br>
-        <img src="assets/1000492611.jpg" alt="About Screen" width="200" style="border-radius: 12px;"/>
+        <img src="assets/e.jpg" alt="About Screen" width="200" style="border-radius: 12px;"/>
       </td>
     </tr>
   </table>
